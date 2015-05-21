@@ -1,0 +1,25 @@
+template(name="win")
+  .container-fluid
+    .row.nav-row
+      .col-md-9.end-title-block
+        h1.end-title.first-title Bravo ! Vous avez gagné !
+        div.end-title.last-title(style="display:none")
+          h1
+            | Votre destination :
+            br
+          span.airport-font= name
+      .col-md-3.text-right
+        img.logo-end(src="/logo-blanc.svg")
+
+    .row.content-row
+      .col-md-6.end-title-block
+        p.interest-intro A #{time} minutes de Saint Paul, découvrez :
+        p.interest= interest
+        div.sentence
+          p
+            | Pour récupérer votre bon d'achat, rendez-vous dans la gare Saint Paul et murmurez à l'oreille du guichetier la phrase magique :
+
+          p.text-center
+            em "#{sentence}"
+      .col-md-6.end-col
+        img.end-img(src="#{picture}")

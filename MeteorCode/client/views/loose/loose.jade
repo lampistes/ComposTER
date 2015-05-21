@@ -1,0 +1,21 @@
+template(name="loose")
+  .container-fluid
+    .row.nav-row
+      .col-md-9.end-title-block
+        h2.end-title.first-title Vous n'avez pas gagné cette fois-ci...
+        h1.end-title.last-title(style="display:none") Mais vous venez de contribuer à embellir votre quartier !
+      .col-md-3.text-right
+        img.logo-end(src="/logo-blanc.svg")
+
+    .row.content-row
+      .col-md-6
+        p.text-center.interest-intro
+          | Vous êtes la
+          br
+          span.interest #{tree.count}e
+          br
+          | personne à déposer ses déchets ici.
+        p.text-center.interest-intro
+          em Merci à vous !
+      .col-md-6.end-col
+        img.end-img(src="/diagramme-composte.jpg")
