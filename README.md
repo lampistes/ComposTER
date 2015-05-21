@@ -1,5 +1,5 @@
 
-![Logo](images/logo.png)
+![Logo](documents/images/logo.png)
 
 Compos'TER - Gare Remix 2015 Project - Green Team ( Les lampistes : http://garemixsaintpaul.grandlyon.com/index.php/les-lampistes/ )
 
@@ -37,11 +37,11 @@ Ruby, config mini, ..
 ...
 
 ###Le bouton pour jouer
-![Logo](images/bouton.png)
+![Logo](documents/images/bouton.png)
 
 ### Electronique
 Connectez impérativement la carte en USB puisqu'il y a envoi d'informations au programme Ruby par le Serial.
-![Logo](images/arduino_img.png)
+![Logo](documents/images/arduino_img.png)
 
 
 
