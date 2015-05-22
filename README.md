@@ -5,14 +5,14 @@ Compos'TER - prototype de service réalisé durant [Gare Remix](http://garemixsa
 
 Plus d'infos sur compos'TER : [page de l'équipe Lampiste](http://garemixsaintpaul.grandlyon.com/index.php/les-lampistes).
 
-*A few elements in approximate english can be read below*
+*A few elements in approximate english can be read below.*
 
 ## Contexte et problématique
 
 Le projet Compos’Ter propose aux riverains et aux usagers de gagner des billets de tram-train à destination de l’Ouest-Lyonnais, en échange de leurs déchets (compost et déchets plastiques). Le compost servira ensuite à végétaliser la gare et ses alentours. Les déchets plastiques seront quant à eux recyclés en mobilier d’extérieur par des associations pour faire vivre autrement le parvis de la gare. Le projet Compos’Ter vise ainsi à reconnecter les deux territoires de Lyon et de l’Ouest-Lyonnais et à créer un lieu d’échange au sein de la gare, tout en améliorant l’équilibre environnemental dans le quartier.
 
-*Approximate English :*
-*Compost'TER is a 3-day-built project created during the event Garemix, aiming to innovate and invent new services in Lyon Saint Paul train station. Compost'TER is an interactive compost an recycle bin, fostering the touristic development of the area served by the station, and creating social link in the district. Compost'TER was led by a 5 people team and mixes arduino, web application, wood and cardboard (and many other things). More info on [Garemix website](http://garemixsaintpaul.grandlyon.com/index.php/les-lampistes/)*
+***Approximate English :***
+*Compost'TER is a 3-day-built project created during the event Garemix, aiming to innovate and invent new services in Lyon Saint Paul train station. Compost'TER is an interactive compost an recycle bin, fostering the touristic development of the area served by the station, and creating social link in the district. Compost'TER was led by a 5 people team and mixes arduino, web application, wood and cardboard (and many other things). More info on [Garemix website](http://garemixsaintpaul.grandlyon.com/index.php/les-lampistes/).*
 
 ## Notre création
 
@@ -61,9 +61,9 @@ Connectez impérativement la carte en USB puisqu'il y a envoi d'informations à 
 
 ## L'équipe
 ![Team](documents/images/team.jpg)
-Thomas BUISSON, expert du quotidien
-Claire ZULIANI, bricoleuse numérique ([site web](http://www.clairezuliani.com/))
-Sarah BLONDE, urbanophile
-Benjamin COHEN, joker
-Lydiane BONNET, facilitatrice
-Pour nous contacter, ... ?
+- Thomas BUISSON, expert du quotidien
+- Claire ZULIANI, bricoleuse numérique ([site web](http://www.clairezuliani.com/))
+- Sarah BLONDE, urbanophile
+- Benjamin COHEN, joker
+- Lydiane BONNET, facilitatrice
+
