@@ -32,7 +32,7 @@ Le bouton poussoir et le capteur détectent les déchets envoient des signaux à
 
 La partie application web est réalisée à partir du framework Meteor.js (javascript).
 
-Le code est à diposition dans le dossier [WebApplication](Webapplication), et plus d'informations sur l'installation et le fonctionnement figurent dans le [read.me](Webapplication/readme.md) à sa racine.
+Le code est à diposition dans le dossier [WebApplication](WebApplication), et plus d'informations sur l'installation et le fonctionnement figurent dans le [read.me](WebApplication/readme.md) à sa racine.
 
 ### Electronique
 - 1 carte Arduino Uno
