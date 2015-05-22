@@ -1,6 +1,5 @@
 ## Compost'TER - web application. Garemix, Lyon, 2015
 
-Compost'TER is a 3-day-built project created during the event Garemix, aiming to innovate and invent new services in Lyon Saint Paul train station. Compost'TER is an interactive compost an recycle bin, fostering the touristic development of the area served by the station, and creating social link in the district. Compost'TER was led by a 5 people team and mixes arduino, web application, wood and cardboard (and many other things). More info on [Garemix website](http://garemixsaintpaul.grandlyon.com/index.php/les-lampistes/)
 
 Here is the web / screen side of the project. This web application communicates with arduino sensors and displays screens and information following the data that is sent by the sensors. It's written in javascript, through the framework [meteor.js](https://www.meteor.com/) that enables realtime communication between server and client.
 
@@ -24,7 +23,8 @@ One way to do it is to install arduino, and check in the top menu on which port 
 
 #### With arduino plugged on serial port
 
-1. `$ cd composter`
+Go inside the application folder and launch meteor :
+1. `$ cd composTer/WebApplication`
 2. `$ meteor`
 
 If *'Port open'* appears in your terminal, everything is working
@@ -37,11 +37,11 @@ For debugging purpose, you may want to launch the app without arduino plugged.
 
 1. First, you need to comment the whole file `/server/serialPort.js`. Then, do as in the previous part :
 
-2. `$ cd composter`
+2. `$ cd composTer/WebApplication`
 3. `$ meteor`
 4. Open a browser and go to `localhost:3000/`
 
-### In case of bug
+### Bugs ?
 
 #### Arduino is plugged but serial port isn't recognised
 
