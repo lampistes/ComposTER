@@ -60,7 +60,7 @@ Connectez impérativement la carte en USB puisqu'il y a envoi d'informations à 
 
 
 ## L'équipe
-![Team](images/team.jpg)
+![Team](documents/images/team.jpg)
 Thomas BUISSON, expert du quotidien
 Claire ZULIANI, bricoleuse numérique ([site web](http://www.clairezuliani.com/))
 Sarah BLONDE, urbanophile
