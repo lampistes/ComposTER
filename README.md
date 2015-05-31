@@ -14,6 +14,8 @@ Le projet Compos’Ter propose aux riverains et aux usagers de gagner des billet
 ***Approximate English :***
 *Compost'TER is a 3-day-built project created during the event Garemix, aiming to innovate and invent new services in Lyon Saint Paul train station. Compost'TER is an interactive compost an recycle bin, fostering the touristic development of the area served by the station, and creating social link in the district. Compost'TER was led by a 5 people team and mixes arduino, web application, wood and cardboard (and many other things). More info on [Garemix website](http://garemixsaintpaul.grandlyon.com/index.php/les-lampistes/).*
 
+![Team](documents/images/casino.png)
+
 ## Notre création
 
 ### Description générale
@@ -25,7 +27,7 @@ Le prototype est composé de :
 - un **bouton poussoir** permettant de lancer le jeu (momentary switch arduino)
 - un **capteur** permettant de détecter le laché de déchet dans le composteur
 
-Le bouton poussoir et le capteur détectent les déchets envoient des signaux à l'application web, laquelle pilote en fonction l'affichage de l'écran.
+Le bouton poussoir et le capteur détectent les déchets et envoient des signaux à l'application web, laquelle pilote en fonction l'affichage de l'écran.
 
 
 ### Informatique
