@@ -29,7 +29,6 @@ Le prototype est composé de :
 
 Le bouton poussoir et le capteur détectent les déchets et envoient des signaux à l'application web, laquelle pilote en fonction l'affichage de l'écran.
 
-
 ### Informatique
 
 La partie application web est réalisée à partir du framework Meteor.js (javascript).
@@ -63,9 +62,10 @@ Connectez impérativement la carte en USB puisqu'il y a envoi d'informations à 
 
 ## L'équipe
 ![Team](documents/images/team.jpg)
+- Sarah BLONDE, urbanophile ([site web happ'iD](http://www.happid.fr/))
 - Thomas BUISSON, expert du quotidien
-- Claire ZULIANI, bricoleuse numérique ([site web](http://www.clairezuliani.com/))
-- Sarah BLONDE, urbanophile
 - Benjamin COHEN, joker
+- Julie FUND, bricoleuse ([site web](http://juliefund.fr/))
+- Claire ZULIANI, bricoleuse numérique ([site web](http://www.clairezuliani.com/))
 - Lydiane BONNET, facilitatrice
 
