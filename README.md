@@ -64,7 +64,7 @@ Connectez impérativement la carte en USB puisqu'il y a envoi d'informations à 
 ![Team](documents/images/team.jpg)
 - Sarah BLONDE, urbanophile ([site web happ'iD](http://www.happid.fr/))
 - Thomas BUISSON, expert du quotidien
-- Benjamin COHEN, joker
+- Benjamin COHEN, joker ([LinkedIn](https://fr.linkedin.com/pub/benjamin-cohen/10/9b6/a66))
 - Julie FUND, bricoleuse ([site web](http://juliefund.fr/))
 - Claire ZULIANI, bricoleuse numérique ([site web](http://www.clairezuliani.com/))
 - Lydiane BONNET, facilitatrice
