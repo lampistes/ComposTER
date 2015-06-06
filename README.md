@@ -47,10 +47,12 @@ Le code est à diposition dans le dossier [WebApplication](WebApplication), et p
 
 ## Le montage
 ### La structure
-...
+![struct_Presentation](documents/images/pic_composter_presentation.png)
+![struct_front](documents/images/pic_composter_front.png)
+![struct_top](documents/images/pic_composter_top.png)
 
 ###Le bouton pour jouer
-![Logo](documents/images/bouton.png)
+![Bouton](documents/images/bouton.png)
 
 ### Electronique
 Connectez impérativement la carte en USB puisqu'il y a envoi d'informations à l'application web par le Serial.
@@ -69,3 +71,6 @@ Connectez impérativement la carte en USB puisqu'il y a envoi d'informations à 
 - Claire ZULIANI, bricoleuse numérique ([site web](http://www.clairezuliani.com/))
 - Lydiane BONNET, facilitatrice
 
+
+#Restitution
+![img_proto](documents/images/IMG_3572.jpg)
