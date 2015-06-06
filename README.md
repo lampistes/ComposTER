@@ -47,8 +47,13 @@ Le code est à diposition dans le dossier [WebApplication](WebApplication), et p
 
 ## Le montage
 ### La structure
+####Présentation
 ![struct_Presentation](documents/images/pic_composter_presentation.png)
+
+####Vue de face
 ![struct_front](documents/images/pic_composter_front.png)
+
+####Vue de dessus
 ![struct_top](documents/images/pic_composter_top.png)
 
 ###Le bouton pour jouer
