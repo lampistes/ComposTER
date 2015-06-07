@@ -48,13 +48,13 @@ Le code est à diposition dans le dossier [WebApplication](WebApplication), et p
 ## Le montage
 ### La structure
 ####Présentation
-![struct_Presentation](documents/images/pic_composter_presentation.png)
+![struct_Presentation](documents/images/croquis_prototype_global.png)
 
 ####Vue de face
-![struct_front](documents/images/pic_composter_front.png)
+![struct_front](documents/images/croquis_prototype_face.png)
 
 ####Vue de dessus
-![struct_top](documents/images/pic_composter_top.png)
+![struct_top](documents/images/croquis_prototype_dessus.png)
 
 ###Le bouton pour jouer
 ![Bouton](documents/images/bouton.png)
